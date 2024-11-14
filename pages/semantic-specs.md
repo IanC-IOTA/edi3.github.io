@@ -8,7 +8,7 @@ data: domain-model
 
 The scope of semantic specifications on this site is the full international supply chain as outlined in the diagram.
 
-![Supply Chain Model](../images/supply-chain.png)
+![Supply Chain Model](https://github.com/IanC-IOTA/edi3.github.io/blob/IanC-IOTA-patch-1/images/supply_chain_v2.png)
 
 * Financial processes such as insurances and letters of credit
 * Trade processes such as ordering, invoicing and shipping notices.
